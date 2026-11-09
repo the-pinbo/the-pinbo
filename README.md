@@ -15,7 +15,7 @@ I'm a software engineer at RingCentral. I work on AI features and backend system
 
 ## Open source
 
-- **LFX Mentorship:** Added mathematical functions and tests to [SoftPosit C++](https://github.com/Posit-Foundation/soft-posit-cpp/commits/refactor-cpp-soft-posits?author=the-pinbo) to support work on posit arithmetic.
+- **LFX Mentorship:** Added mathematical functions and tests to [SoftPosit C++](https://github.com/Posit-Foundation/soft-posit-cpp/commits/refactor-cpp-soft-posits?author=the-pinbo) to support work on posit arithmetic at RISC-V.
 - **Google Summer of Code:** Built [VisionGuard](https://github.com/inbasperu/VisionGuard), an on-device gaze tracking app, with the Intel OpenVINO community. [Project page](https://summerofcode.withgoogle.com/archive/2024/projects/QUbIeRAM) · [Write-up](https://medium.com/openvino-toolkit/visionguard-ai-eye-care-for-computer-users-d055a574d8e9)
 
 ## Research
